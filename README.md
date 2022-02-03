@@ -1,4 +1,4 @@
-# DATA 606 Science Capstone Project
+# DATA 606 Capstone Project
 
 For your project proposal, please use the following questions to guide your writing:
 

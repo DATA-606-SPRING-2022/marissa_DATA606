@@ -1,1 +1,3 @@
-# This is for UMBC Capstone Project for Spring 2022.
+# DATA 606 Science Capstone Project
+
+

@@ -5,7 +5,7 @@ Over the past decade, US home prices have experience steady growth. Location has
 Since March 2020, when COVID-19 virus has raged through the United States and around the world, this deadly virus had left a trail of numerous deaths and lingering effects of illnesses. To contain the spread of COVID-19, our way of life took a drastic turn. Physical presence at and long commute to work have been delegated to remote attendance in a part of the dwelling. A warm hug or a firm handshake have been replaced with six feet distance or a quick fist bump. Now, it seems the period of endemic is at hand. The luxury of working remotely is a possibility. Working from a far distance is not a barrier as long as internet infrastructure is in place. One could be in New York and be working forty hours a week in California. Once, our job dictates where one live. Now, no longer is a firm requirement. <br><br>
 The location of the house is an important issue to a home developer, home buyer or seller. The home developer will plan where the community will be. The creation of the community will be based on the demand of the buyer. Being able foresee the needs of the buyers will dictate the price of the property. The more in demand the location of the property is, the higher the asking price will be.<br><br>
 
-# Research Question(s)
+## Research Question(s)
 Has there been a big change in the buying area after COVID? <br>
 Has there been a shift from the high to low dense area after COVID?<br><br>
 
@@ -22,7 +22,7 @@ Has there been a shift from the high to low dense area after COVID?<br><br>
 - Density of the area (counties) with price per square will be used to analyze between before COVID-19 (2016 to 2019) and after COVID-19 (2020 to 2021).<br><br> 
 
 ## Techniques/Models 
-- clustering will be the technique use in this project. Each cluster will be represented by a centroid (average) of similar points with continuous features. 
+- Clustering will be the technique use in this project. Each cluster will be represented by a centroid (average) of similar points with continuous features. 
 
 ## Development/Applicaton of Machine Learning
 - Lazy Predict will be used to analyze which machine learning model to be used. However, a correlational matrix will be graphed to show the relationship of each variable to the other. 

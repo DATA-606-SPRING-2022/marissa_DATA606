@@ -19,11 +19,13 @@ Has there been a change in buyers' house buying criteria since COVID-19? <br><br
 - FIPS code is also used to joined the density and real estate data which are used for visualization and machine learning.<br><br>
 
 ## Variables/Measures 
-- Average listing price (counties) will be used to analyze during 2016 to 2021.
-- Density of the area (counties) with price per square will be used to analyze between before COVID-19 (2016 to 2019) and after COVID-19 (2020 to 2021).<br><br> 
+- Average listing price (counties) will be used as the dependent variable and will be to analyze during 2016 to 2021.
+- Density of the area (counties) with price per square will be used to analyze between before COVID-19 (2016 to 2019) and after COVID-19 (2020 to 2021).
+- There will be 25 variables used as independent variables, Median Listing Price, Active Listing Count, Days on Market, New Listing Count, Price Increase Count, Price Decrease Count, Pending Listing Count, Median List Price Per Sqft, Median Listing Sqft, Avg Listing Price, Total Listing Count , Pending Ratio, State, Year, Month, County, Density.
+- These are the links to the description of the variables, [Variables A-N](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%201.PNG) and [Variables O-Z](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%202.PNG).<br><br>
 
 ## Techniques/Models 
-- Clustering will be the technique use in this project. Each cluster will be represented by a centroid (average) of similar points with continuous features. 
+- K-means will be the technique used in this project which works by selecting how many clusters, k, exist in the data. Each cluster will be represented by a centroid (average) of similar points with continuous features. Principal Component Analysis (PCA) will also be used because it help reducing the number of dimensions for the data set. This works by finding a lower dimension in the data such that the variance is maximized. <br><br> 
 
 ## Development/Applicaton of Machine Learning
 - Lazy Predict will be used to analyze which machine learning model to be used. However, a correlational matrix will be graphed to show the relationship of each variable to the other. 

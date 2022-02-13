@@ -21,7 +21,7 @@ Has there been a change in buyers' house buying criteria since COVID-19? <br><br
 ## Variables/Measures 
 - Average listing price (counties) will be used as the dependent variable and will be to analyze during 2016 to 2021.
 - Density of the area (counties) with price per square will be used to analyze between before COVID-19 (2016 to 2019) and after COVID-19 (2020 to 2021).
-- There will be 25 variables used as independent variables, Median Listing Price, Active Listing Count, Days on Market, New Listing Count, Price Increase Count, Price Decrease Count, Pending Listing Count, Median List Price Per Sqft, Median Listing Sqft, Avg Listing Price, Total Listing Count , Pending Ratio, State, Year, Month, County, Density.
+- There will be 25 variables used as independent variables, Active Listing Count, Avg Listing Price, Avg Listing Price M/M, Avg Listing Price Y/Y, County, Date, Days on Market, Days on Market M/M, Days on Market Y/Y, Density, FIPS, Median List Price Per Sqft, Median Listing Price, Median Listing Sqft, New Listing Count, Pending Listing Count, Pending Ratio, Price Decrease Count, Price Decrease Count M/M, Price Decrease Count Y/Y, Price Increase Count, Price Increase Count M/M, Price Increase Count Y/Y, State, Total Listing Count.
 - These are the links to the description of the variables, [Variables A-N](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%201.PNG) and [Variables O-Z](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%202.PNG).<br><br>
 
 ## Techniques/Models 

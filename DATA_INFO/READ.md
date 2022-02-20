@@ -1,5 +1,12 @@
-## Visualizing the Data
+## DATA Sources<br>
+<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Source.PNG"/><br>
 
+
+## DATA Dictionary<br>
+<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%201.PNG"/><br>
+<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%202.PNG"/><br>
+
+## Visualizing the Data<br>
 After the data were merged from the density and real estate dataset. It was partitioned to 2019 and 2021 to compare the real estate pre and post COVID. Average listing price will be used as the independent variable since the listing price provides the demand of the location.  To provide a more accurate analysis, outlier was removed. 
 
 ### Below are the charts of the states pre and post-COVID where the outliers were removed.

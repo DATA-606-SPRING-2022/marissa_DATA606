@@ -7,7 +7,12 @@
 <image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%202.PNG"/><br>
 
 ## Visualizing the Data<br>
-After the data were merged from the density and real estate dataset. It was partitioned to 2019 and 2021 to compare the real estate pre and post COVID. Average listing price will be used as the independent variable since the listing price provides the demand of the location.  To provide a more accurate analysis, outlier was removed. 
+The density and real estate dataset were merged.<br><br> 
+
+### Correlation Matrix
+<img src = "https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.PNG" /><br><br>
+The highest correlation is between active listing count and total listing count which has a value of 97%. The next highest correlation is between average listing price and median listing price which has a value of 83%.<br><br>
+The real estate dataset was partitioned into 2019 and 2021 which allows comparison of pre and post COVID. Average listing price and average listing price change will be the focus of this study. To provide a more accurate analysis, outlier was removed.<br><br> 
 
 ### Below are the charts of the states pre and post-COVID where the outliers were removed.
 - 2019 Box Plot<br>

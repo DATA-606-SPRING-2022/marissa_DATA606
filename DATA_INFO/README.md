@@ -11,7 +11,7 @@ After the data were merged from the density and real estate dataset. It was part
 
 ### Below are the charts of the states pre and post-COVID where the outliers were removed.
 - 2019 Box Plot<br>
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20Box%20Plot%20for%20State's%20Average%20List%20Price.png" /><br><br>
+<img src ="" /><br><br>
 
 - 2021 Box Plot<br>
 <img src =""/><br><br>

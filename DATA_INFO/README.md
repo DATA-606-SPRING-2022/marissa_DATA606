@@ -11,9 +11,9 @@ After the data were merged from the density and real estate dataset. It was part
 
 ### Below are the charts of the states pre and post-COVID where the outliers were removed.
 - 2019 Box Plot<br>
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2016%20Box%20Plot%20for%20State's%20Average%20List%20Price.png" /><br><br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20Box%20Plot%20for%20State's%20Average%20List%20Price.png" /><br><br>
 
 - 2021 Box Plot<br>
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20Box%20Plot%20for%20State's%20Average%20List%20Price.png"/><br><br>
+<img src =""/><br><br>
 
 There is a difference in the demand of the housing. While Hawaii has constantly has the highest listing price before and after COVID, the next highest demand shifts after the pandemic. The remaining 5 top locations were District of Columbia, Massachussetts, Rhode Island, California respectively before the pandemic. During the Post-COVID, there is a change in the ranking, District of Columbia was displaced to the third while Rhode Island became second most expensive. It is followed by Massachussets. California maintained its fifth placement.

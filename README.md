@@ -28,7 +28,34 @@ Has there been a change in buyers' house buying criteria since COVID-19? <br><br
 - K-means will be the technique used in this project which works by selecting how many clusters, k, exist in the data. Each cluster will be represented by a centroid (average) of similar points with continuous features. Principal Component Analysis (PCA) will also be used because it help reducing the number of dimensions for the data set. This works by finding a lower dimension in the data such that the variance is maximized. <br><br> 
 
 ## Development/Applicaton of Machine Learning
-- Lazy Predict will be used to analyze which machine learning model to be used. However, a correlational matrix will be graphed to show the relationship of each variable to the other. 
+- Lazy Predict will be used to analyze which machine learning model to be used. However, a correlational matrix will be graphed to show the relationship of each variable to the other.<br><br> 
 
 ## Intended Outcomes
-This research intends to understand how COVID-19 change the real estate market. This can help real estate developers and local government planners in designing future housing sites.
+This research intends to understand how COVID-19 change the real estate market. This can help real estate developers and local government planners in designing future housing sites.<br><br>
+
+## Exploratory Data Analysis
+### Correlational Matrix<br>
+<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.PNG'/><br>
+In this matrix, the highest correlation is between active listing count and total listing count which is 97%. The second highest is between average listing price and median listing price which is 83%.<br><br>
+
+### Box Plot for Average Listing Price per State
+- 2019 Box Plot<br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20Box%20Plot%20for%20State's%20Average%20List%20Price.PNG" /><br><br>
+
+- 2021 Box Plot<br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20Box%20Plot%20for%20State's%20Average%20List%20Price.PNG"/><br><br>
+
+There is a difference in the demand of the housing in the different states in the United States. While Hawaii has constantly has the highest listing price before and after COVID, the next highest most expensive shifts after the pandemic. In 2019, the remaining four top states were District of Columbia, Massachussetts, Rhode Island, California respectively before the pandemic. By 2021, the remaining top four states showed a change in the ranking. The District of Columbia was displaced to the third while Rhode Island became second most expensive. It is followed by Massachussets which kept its fourth placement. Lastly, California maintained its fifth placement.<br><br>
+
+### Mapping for Average Listing Price Change (%) per State
+- 2019 State Map
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20ALP%20%25:state.png" /><br><br>
+
+- 2021 State Map
+-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20ALP%20%25:state.png" /><br><br>
+
+Comparing the 2019 and 2021 maps, the top 10 states in the United States that enjoyed high average listing price change are not consistent. However, three states are found in 2019 and 2021 top ten list. They are Idaho (41.48%), Alaska (28.40%), and South Dakota (26.32%). Here is the link for refence. 
+
+
+
+

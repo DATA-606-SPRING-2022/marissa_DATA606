@@ -54,7 +54,7 @@ There is a difference in the demand of the housing in the different states in th
 - 2021 State Map
 -<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20ALP%20%25:state.png" /><br><br>
 
-Comparing the 2019 and 2021 maps, the top 10 states in the United States that enjoyed high average listing price change are not consistent. However, three states are found in 2019 and 2021 top ten list. They are Idaho (41.48%), Alaska (28.40%), and South Dakota (26.32%). Here is the link for refence. 
+Comparing the 2019 and 2021 maps, the top 10 states in the United States that enjoyed high average listing price change are not consistent. However, three states are found in 2019 and 2021 top ten list. They are Idaho (41.48%), Alaska (28.40%), and South Dakota (26.32%). Here is the link to [502 States and FIPS.ipynb](https://github.com/tmarissa/marissa_DATA606/blob/main/ipynb/502%20States%20and%20FIPS.ipynb). Refer to 2.2c Consistent Top 10 Highest Price Increase (2019 and 2021) 
 
 
 

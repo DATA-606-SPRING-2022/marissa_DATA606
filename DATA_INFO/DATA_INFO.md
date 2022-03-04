@@ -1,10 +1,9 @@
 ## DATA Sources<br>
-<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Source.PNG"/><br>
+<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Source.PNG"/><br><br>
 
 
 ## DATA Dictionary<br>
-<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%201.PNG"/><br>
-<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable%202.PNG"/><br>
+<image src="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable.PNG"/><br><br>
 
 ## Visualizing the Data<br>
 The density and real estate dataset were merged.<br><br> 

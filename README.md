@@ -25,23 +25,19 @@ Has there been a change in buyers' house buying criteria since COVID-19? <br><br
 - These are the links to the description of the [variables.](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Data%20Variable.PNG) <br><br>
 
 ## Exploratory Data Analysis
-<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.png' width=1200/><br>
+<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.png' width=1000/><br>
 In this matrix, the highest correlation is between average listing price and median listing price which is 83%. The second highest correlation is between average listing price yy (yearly change) and median listing price yy (yearly change) which is 64%.<br><br>
 
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Counties%20Prices%20Increases%20Graph.PNG" width=1200/><br><br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Counties%20Prices%20Increases%20Graph.PNG" width=800/><br><br>
+In 2018 and 2019 (Pre-COVID), around 55% to 56% of the counties experience a price increase. However, in 2020 and 2021 (Post-COVID), 60% to 61% of the counties experience a price increase. Compared between 2018 and 2019 to 2020 and 2021, the counties also experience lower downs from the previous years.<br><br>
 
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20ALP%20Choropleth.PNG" width=1200/><br><br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20ALP%20Choropleth.PNG" width=1000/><br><br>
+In 2021, the color for the whole United States map deepens which means there is an overall increase in average listing price. However, the West Mountain Region's, Arizona, Utah, Colorado, and Montana, colors are more intense.<br><br>
 
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20ALP%20Change%20Choropleth.PNG" width=1200/><br><br>
-
-There is a difference in the demand of the housing in the different states in the United States. While Hawaii has constantly has the highest listing price before and after COVID, the next highest most expensive shifts after the pandemic. In 2019, the remaining four top states were District of Columbia, Massachussetts, Rhode Island, California respectively before the pandemic. By 2021, the remaining top four states showed a change in the ranking. The District of Columbia was displaced to the third while Rhode Island became second most expensive. It is followed by Massachussets which kept its fourth placement. Lastly, California maintained its fifth placement.<br><br>
-
-
-Comparing the 2019 and 2021 maps, the top 10 states in the United States that enjoyed high average listing price change are not consistent. However, three states are found in 2019 and 2021 top ten list. They are Idaho (41.48%), Alaska (28.40%), and South Dakota (26.32%). Here is the link to [502 States and FIPS.ipynb](https://github.com/tmarissa/marissa_DATA606/blob/main/ipynb/502%20States%20and%20FIPS.ipynb). Refer to 2.2c Consistent Top 10 Highest Price Increase (2019 and 2021) 
-
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20State%20ALP%20Change%20Choropleth.PNG" width=1000 width=1200/><br><br>
 
 ## K-Means Model Execution
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20FIPS%20K-Means%20Scatterplot.PNG" width='1200' /><br><br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20FIPS%20K-Means%20Scatterplot.PNG" width='1000' /><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20FIPS%20K-Means%20Scatterplot.PNG" width='1200'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20K-Means%20Choropleth.PNG" width='1200' /><br><br>
 In 2019, the predominant brown cluster begins from Midwest region going towards East. In 2021, the cluster in the Midwest region is isolated from the other regions. The formerly brown East North Central region onward to east belongs to their own cluster.<br><br><br><br>

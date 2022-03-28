@@ -35,8 +35,8 @@ This research intends to understand how COVID-19 change the real estate market. 
 
 ## Exploratory Data Analysis
 ### Correlational Matrix<br>
-<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.PNG'/><br>
-In this matrix, the highest correlation is between active listing count and total listing count which is 97%. The second highest is between average listing price and median listing price which is 83%.<br><br>
+<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Correlation%20Matrix.png'/><br>
+In this matrix, the highest correlation is between average listing price and median listing price which is 83%. The second highest correlation is between average listing price yy (yearly change) and median listing price yy (yearly change) which is 64%.<br><br>
 
 ### Box Plot for Average Listing Price per State
 - 2019 Box Plot<br>
@@ -61,7 +61,7 @@ Comparing the 2019 and 2021 maps, the top 10 states in the United States that en
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20FIPS%20K-Means%20Scatterplot.PNG" width='2000' /><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20FIPS%20K-Means%20Scatterplot.PNG" width='2000'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20K-Means%20Choropleth.PNG" width='2000' /><br><br>
-In 2019, the predominant brown cluster begins from Midwest region going towards East. In 2021, the cluster in the Midwest region is isolated from the other regions. The formerly brown East North Central region onward to east belongs to their own cluster.<br><br>
+In 2019, the predominant brown cluster begins from Midwest region going towards East. In 2021, the cluster in the Midwest region is isolated from the other regions. The formerly brown East North Central region onward to east belongs to their own cluster.<br><br><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20MA%20K-Means%20Scatterplot.PNG" width='2000'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20MA%20K-Means%20Scatterplot.PNG" width='2000'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20MA%20K-Means%20Choropleth.PNG" width='2000'/><br><br>

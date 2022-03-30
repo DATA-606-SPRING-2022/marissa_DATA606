@@ -60,10 +60,11 @@ In 2019, the predominant brown cluster begins from Midwest region going towards 
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20AZ%20K-Means%20Scatterplot.PNG" width='1000' /><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20AZ%20K-Means%20Scatterplot.PNG" width='1200'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20K-Means%20Choropleth.PNG" width='1200' /><br><br>
-In 2019, the predominant brown cluster begins from Midwest region going towards East. In 2021, the cluster in the Midwest region is isolated from the other regions. The formerly brown East North Central region onward to east belongs to their own cluster.<br><br><br><br>
+Greenlee County has a low average listing price of 239K, density 5, and rural percentage 46.57 and ranked 14th in 15 counties in Arizona, moved to 5th most expensive counties in Arizona with an average listing price of 687K. La Paz County, a rural area with 56.33 rural % and a low density of 5, belongs to the same cluster as Greenlee county in 2019. In 2021, La Paz and Greenlee Counties clustered with a higher average listing priced Gila County.
+.<br><br><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%20MA%20K-Means%20Scatterplot.PNG" width='1200'/><br><br>
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2021%20MA%20K-Means%20Scatterplot.PNG" width='1200'/><br><br>
-<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20MA%20K-Means%20Choropleth.PNG" width='1200'/><br><br>
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20AZ%20K-Means%20Choropleth.PNG" width='1200'/><br><br>
 In 2019, Berkshire and Hampshire counties belong to one cluster. Berkshire has a 139 density and 31.60 rural percentage while Hampshire has a 307 density and 21.44 rural percentage which meant Berkshire is less dense and less urban than Hampshire. In 2021, Berkshire is in its own cluster. Its average listing price rose from 631K to 975K. Hampshire clustered with Hampden. Hampden has a 570 density and 18.39 rural percentage. Both Hampshire and Worcester are more urban than Berkshire but their average listing price is around 500’s.<br>  
 
 ## Interpretations and Conclusions:

@@ -73,10 +73,10 @@ In 2019, Berkshire and Hampshire counties belong to one cluster. Berkshire has a
 2. Has there been a change in in-demand house location since COVID-19?<br>
 > There is a change in in-demand house location since COVID-19. The average listing price was used to measure of the demand of house location. Demand being constant, too low of inventory will increase the listing price of the property while too high of inventory will decrease the listing price of the property. The inability to sell the property will result to the decrease of listing price. Before the pandemic, District of Columbia, second to the highest average listing price, is a high urban area with zero rural percentage. During the pandemic, District of Columbia was delegated to the third highest listing price. While many counties enjoyed increased in average listing price, District of Columbia dropped its average listing price. In Arizona, Greenlee County, a low dene. There is a demand for low density and high rural percentage in urban areas.<br><br>
 3. Has there been a change in buyers' house buying criteria since COVID-19?<br>
-> There is evidence that the buyers house buying criteria change because the choropleth map using the K-means clustering for the average listing price, density, and rural percentage shows the partition of the clustered. In 2019, there used to be 2 dominant clusters that separate the west and east region of the US. After the pandemic, the Midwest region has its own cluster and separates the east and the west regions. However, further investigation is needed because the visually seen cluster are made up of other small cluster (Comparison of 2019 and 2021 United States' FIPS cluster ). <br><br>
+> There is evidence that the buyers house buying criteria change because the choropleth map using the K-means clustering for the average listing price, density, and rural percentage shows the partition of the clustered. In 2019, there used to be 2 dominant clusters that separate the west and east region of the US. After the pandemic, the Midwest region has its own cluster and separates the east and the west regions. However, further investigation is needed because the visually seen cluster are made up of other small cluster ([(Comparison of 2019 and 2021 United States' FIPS cluster)](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20K-Means%20Choropleth.PNG). <br><br>
 ## References
-Chen, D. Y., (2018) Pandas for Everyone. Boston: Pearson.<br><br>
-Raschka, S., Mirjalili V., (2015, September). Python Machine Learning. (2nd edn.) Packt: Birmingham.  
+Chen, D. Y. (2018) Pandas for Everyone. Boston: Pearson.<br><br>
+Raschka, S., Mirjalili V. (2015, September). Python Machine Learning. (2nd edn.) Packt: Birmingham.  
 
 
 

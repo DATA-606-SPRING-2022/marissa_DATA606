@@ -25,7 +25,7 @@ The goal of this study is to use machine learning with the US county data and th
 - The real estate dataset has 210,602 observations and 40 features.
 - Average listing price (counties) will be used as the dependent variable and will be to analyze during 2016 to 2021.
 - Density of the area (counties or state) and rural percentage will be used to analyze before COVID-19 (2016 to 2019) and after COVID-19 (2020 to 2021).
-- There will be 13 variables used as independent variables, Avg Listing Price, Avg Listing Price M/M, Avg Listing Price Y/Y, County, Date, Density, FIPS, Median Listing Price, Median Listing Price Y/Y, Median Listing Price M/M, Rural Percentage, Rural Catagory, State, Total Listing Count. <br><br>
+- There will be 13 variables used as independent variables, Average Listing Price M/M, Average Listing Price Y/Y, County, Date, Density, FIPS, Median Listing Price, Median Listing Price Y/Y, Median Listing Price M/M, Rural Percentage, Rural Catagory, State, Total Listing Count. <br><br>
 
 ## Implementation (Model)
 K-means will be used with in this study. It is one of the most popular of these clustering algorithm. Clustering is a technique to find groups of similar objects which is objects that are more related to each other than to objects in other groups. This choice of modeling is implemented to study the relationship among the data items which is unknown. In this prototype based clustering, centroid and silhouette elbow method will be used. Centroid (average) of similar points with continuous features. 

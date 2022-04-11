@@ -75,7 +75,7 @@ In 2019, Berkshire and Hampshire counties belong to one cluster. Berkshire has a
 3. Has there been a change in buyers' house buying criteria since COVID-19?<br>
 > There is evidence that the buyers house buying criteria change because the choropleth map using the K-means clustering for the average listing price, density, and rural percentage shows the partition of the clustered. In 2019, there used to be 2 dominant clusters that separate the west and east region of the US. After the pandemic, the Midwest region has its own cluster and separates the east and the west regions. However, further investigation is needed because the visually seen cluster are made up of many other smaller clusters as shown in the [Comparison of 2019 and 2021 United States' Cluster Choropleth Maps](https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20K-Means%20Choropleth.PNG). <br><br>
 ### Powerpoint presentation - [The Impact of COVID-19 on the U.S. Housing Market](https://github.com/tmarissa/marissa_DATA606/blob/main/Data_Info/Impact%20of%20COVID-19%20on%20US%20Housing%20Market.pdf)
-### YouTube of the Powerpoint presentation - [The Impact of COVID-19 to the U.S. Housing Market](https://www.youtube.com/watch?v=qvV6QUA4NIQ).
+### YouTube of the Powerpoint presentation - [The Impact of COVID-19 on the U.S. Housing Market](https://www.youtube.com/watch?v=qvV6QUA4NIQ).
 
 ## References
 Chen, D. Y. (2018) Pandas for Everyone. Boston: Pearson.<br><br>

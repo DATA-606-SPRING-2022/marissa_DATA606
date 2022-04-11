@@ -11,11 +11,14 @@
 - compute the density by diving land area to population
 - scatter plots for the densities for 2019 and 2020, for States' rural percentage and rural category
 - merging the land area, population and rural percentage
+- saved Density.csv
 
 ### 301 Merged Density and Real Estate.ipynb
-- merged the density and real etate dataset
-- remove null values
-- show MSNO matrix
+- Merged the density and real etate dataset
+- Remove null values
+- Show MSNO matrix
+- Saved to RE_Density.csv
+- RE_Density.csv can't be found in the csv folder because it is too large to upload
 
 ### 401 Box Plot, Matrix and Bar Chart.ipynb
 - Correlation matrix
@@ -24,6 +27,7 @@
 - Scatter plot - Density vs Rural Percentage
 - Box Plot for Cleansed and Uncleansed for 2019 and 2021
 - Analysis of Massachusetts before and after removal of outliers
+- Saved to df_2019.csv, df_2021.csv, df_outliers_2019, and df_outliers_2021.csv
 
 ### 501 Analysis of FIPS
 - Analysis for the whole United State for 2019 and 2021
@@ -51,6 +55,7 @@
   - Individual States
     - Arizona 
     - Massachusetts
+- Saved to df_FIPS_2019.csv, df_FIPS_2021.csv, df_AZ_2019.csv, df_AZ_2021.csv, df_MA_2019.csv, df_MA_2021.csv
 
 ### 504 Choropleth K-Means FIPS PCA (cleansed).ipynb
 - Choropleth Maps for the whole United States 2019 and 2021 - refer to 503 K-Means PCA (cleansed).ipynb Section 2.1
@@ -84,7 +89,8 @@
 - Merge Average Listing Prie and Average Listing Price Change for 2019 and 2021 and Density
   - Real Estate cleansed dataset
   - Real Estate uncleansed dataset
-- rural percentage is not used because there is no rural percentage in the state level.
+- Rural percentage is not used because there is no rural percentage in the state level
+- Saved to df_2019_ALP.csv, df_20221_ALP.csv, df_outliers_2019_ALP.csv, df_outliers_2021_ALP.csv
 
 ### 602 Chroropleth State
 - Choropleth Map for the State (Mean)
@@ -97,9 +103,10 @@
   - Real estate dataset cleansed
   - Real estate dataset uncleansed
 - Silhouette Elbow, Cluster Bar Chart, K-Means Clustering, Identify Scatter Plot Bubbles
+- Saved to df_state_2019.csv, df_state_2021.csv, df_outliers_state_2019.csv, df_outliers_state_2021.csv
+
 
 ### 604 Choropleth K-Means State (Cleansed and Uncleansed).ipynb
 - Choropleth Map for the State (Mean)
   - Cleansed - refer to 603 K-Means State.ipynb Section 3.1
   - Uncleansed - refer to 603 K-Means State.ipynb Section 5.1 
-###

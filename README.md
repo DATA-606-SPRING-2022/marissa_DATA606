@@ -21,7 +21,7 @@ The goal of this study is to use machine learning with the US county data and th
 - FIPS code is also used to joined the density and real estate data which are used for visualization and machine learning.<br><br>
 
 ## Merging Dataset Strategy
-<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Capstone%20Merges.PNG'/><br><br>
+<img src = 'https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Capstone%20Merges.png' width='750'/><br><br>
 1. Population and Land Area dataset are merged in FIPS column. <br>
 2. Result 1 merged with rural percentage dataset on FIPS column. <br>
 3. Result 2 merged with real estate dataset on FIPS column. <br><br>

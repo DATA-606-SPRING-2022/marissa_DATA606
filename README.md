@@ -52,7 +52,13 @@ These above processes will be applied to average listing price, rural percentage
 In this matrix, the highest correlation is between average listing price and median listing price which is 83%. The second highest correlation is between average listing price yy (yearly change) and median listing price yy (yearly change) which is 64%.<br><br>
 
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Counties%20Prices%20Increases%20Graph.PNG" width=800/><br><br>
-In 2018 and 2019 (Pre-COVID), around 55% to 56% of the counties experience a price increase. However, in 2020 and 2021 (Post-COVID), 60% to 61% of the counties experience a price increase. Compared between 2018 and 2019 to 2020 and 2021, the counties also experience lower downs on 2018 and 2019.<br><br>
+In 2018 and 2019 (Pre-COVID), around 55% to 56% of the counties experience a price increase. However, in 2020 and 2021 (Post-COVID), 60% to 61% of the counties experience a price increase. Comparing between Pre-COVIS and Post-COVID, the counties also experience lower downs on 2018 and 2019.<br><br>
+
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Rural%20Percentage%20and%20Density.PNG" width=1000/><br><br>
+Rural percentage and density have a negative relationship. The bigger the density the lower the rural percentage which means a county that has high density will have low rural percentage which makes an urban area.<br><br>
+
+<img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/Rural%20Percentage%20by%20States.PNG" width=1000/><br><br>
+This scatter plot shows the relationship of states and rural percentage. The blue dots represent urban counties. The green dots represent the rural counties. Every state has different rural percentages and categories. District of Columbia is an urban area and is represented by one blue dot. Connecticut, Delaware, New Jersey, and Rhode Island doesn’t have rural counties. They are urban states with different degree of rural percentage. Hawaii has almost all urban counties except for one rural county.<br><br>
 
 <img src ="https://github.com/tmarissa/marissa_DATA606/blob/main/Images/2019%202021%20FIPS%20ALP%20Choropleth.PNG" width=1000/><br><br>
 In 2021, the color for the whole United States map deepens which means there is an overall increase in average listing price. However, the West Mountain Region's, Arizona, Utah, Colorado, and Montana, colors are more intense.<br><br>
